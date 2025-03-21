@@ -1,4 +1,4 @@
-f = open(file="2024/input.txt", mode="r")
+f = open(file="2024/Day1/input.txt", mode="r")
 
 OGlist = f.read()
 newList1 = []
